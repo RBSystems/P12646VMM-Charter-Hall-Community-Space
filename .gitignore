@@ -23,6 +23,7 @@ Log/
 # we are choosing to ignore CEDs and SGDs, as they will be regenerated when the touchpanel is recompiled
 *.ced
 *.sgd
+*.sgd2
 *.sgd_
 *.bak
 
@@ -37,6 +38,7 @@ SPlsWork/
 *.xweb/
 *.prj/
 *.c3prj/
+*.Core3/
 
 # Normal VisualStudio.gitignore, as we now have the S# world
 
